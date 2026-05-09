@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GlSPkgA/sGM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wrcme\\Desktop\\_\\FarmaDi\\BackendFarmaDi\\FarmaDiCore\\FarmaDiCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wrcme\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.26\\microsoft.netcore.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\wrcme\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.26\\microsoft.windowsdesktop.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\wrcme\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.26\\microsoft.aspnetcore.app.ref.8.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
